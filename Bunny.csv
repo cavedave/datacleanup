@@ -24,26 +24,26 @@ I would like to check the health of the mother and father,RABBIT_PARENTS
 Are rabbits friendly enough to pet?,RABBIT_SOCIALISATION
 I have heard rabbits can be aggressive is this one friendly?,RABBIT_SOCIALISATION
 How socialised are the baby rabbits?,RABBIT_SOCIALISATION
-Has the kit been around other rabbits?,RABBIT_SOCIALISATION
+Has the kit been around other rabbits and people?,RABBIT_SOCIALISATION
 Is the rabbit friendly? ,RABBIT_SOCIALISATION
-Has the rabbit  been around people? ,RABBIT_SOCIALISATION
-How does the rabbit handle strangers?,RABBIT_SOCIALISATION
-How friendly is the rabbit ?,RABBIT_SOCIALISATION
-Was the rabbit  well treated when being raised?,RABBIT_SOCIALISATION
+Has the rabbit been around people? ,RABBIT_SOCIALISATION
+How does the rabbit handle strange and new people?,RABBIT_SOCIALISATION
+How friendly is the rabbit with people?,RABBIT_SOCIALISATION
+Was the rabbit well treated and saw people when being raised?,RABBIT_SOCIALISATION
 What vaccines has it had?,RABBIT_HEALTH
 Has the kit been vacinated? ,RABBIT_HEALTH
-What shots has the rabbit  gotten?,RABBIT_HEALTH
+What shots has the rabbit gotten?,RABBIT_HEALTH
 Do I need to get innoculations? ,RABBIT_HEALTH
-Is the rabbit s injections covered?,RABBIT_HEALTH
-When is the kit due its vaccine innoculations?,RABBIT_HEALTH
+Is the rabbit injection covered?,RABBIT_HEALTH
+When is the kit due its vaccine innoculation and injection?,RABBIT_HEALTH
 Do rabbits get health innoculations and vaccines?,RABBIT_HEALTH
 Will my rabbit need booster vacinations,RABBIT_HEALTH
-How many vaccines has the rabbit had?,RABBIT_HEALTH
+How many vaccines has the rabbit had for its health?,RABBIT_HEALTH
 Has the kit been dewormed?,RABBIT_HEALTH
-Do I need to worry about fleas?,RABBIT_HEALTH
-Do I need to get the rabbit  dewormed?,RABBIT_HEALTH
-Do you check the rabbit  for fleas or worms?,RABBIT_HEALTH
-Can you guarantee the rabbit  doesn't have worms?,RABBIT_HEALTH
+Do I need to worry about fleas making the rabbit sick?,RABBIT_HEALTH
+for health reasons do I need to get the rabbit dewormed?,RABBIT_HEALTH
+Do you check the rabbit for fleas or worms?,RABBIT_HEALTH
+Can you guarantee the rabbit doesn't have worms?,RABBIT_HEALTH
 do rabbits need flea collars?,RABBIT_HEALTH
 Do I need to give my rabbit a deworming tablet?,RABBIT_HEALTH
 Do you verify that the kit does not have fleas?,RABBIT_HEALTH
@@ -60,7 +60,7 @@ Are the kits siblings sick?,RABBIT_HEALTH
 Were any of the baby rabbits peers ill?,RABBIT_HEALTH
 Has the litter been not well?,RABBIT_HEALTH
 Has the litter experienced any health problems?,RABBIT_HEALTH
-Has there been any sickness in other baby rabbits of the same group?,RABBIT_HEALTH
+Has there been any sick or ill baby rabbits of the same group?,RABBIT_HEALTH
 Did any of the litter need to see a vet?,RABBIT_HEALTH
 What visits to the vets took place?,RABBIT_HEALTH
 Did the rabbit have to visit a vet?,RABBIT_HEALTH
@@ -72,8 +72,6 @@ What is your guarantee?,BREEDER_GUARANTEE
 What guarantee do you offer?,BREEDER_GUARANTEE
 Do you have any kind of guarantee with the kit?,BREEDER_GUARANTEE
 Can I get details as to your guarantee?,BREEDER_GUARANTEE
-Am I able to return the kit?,BREEDER_GUARANTEE
-What if I don't like the kit when I bring it home? Can I give it back?,BREEDER_GUARANTEE
 What references do you have?,BREEDER_REFERENCES
 Can you give me any references?,BREEDER_REFERENCES
 Can I talk to other customers?,BREEDER_REFERENCES
@@ -81,24 +79,23 @@ do you have reviews from previous customers?,BREEDER_REFERENCES
 Would it be possible to get other buyers details to check?,BREEDER_REFERENCES
 Do you have a list of other people who bought a kit from you?,BREEDER_REFERENCES
 "I'd like to talk to another owner, is that possible?",BREEDER_REFERENCES
-Do I need to spay/neuter the kit? /limited registration,BREEDER_INFORMATION
 Is your breeds under limited registration?,BREEDER_INFORMATION
 Do I need to get the kit spayed at a later time?,BREEDER_INFORMATION
 Do I need to get the rabbit neutered?,BREEDER_INFORMATION
 Is the rabbit  under a limited registration? If so what are the details?,BREEDER_INFORMATION
 Will the rabbit be able to breed?,BREEDER_INFORMATION
 What are you aiming for in breeding?,BREEDER_INFORMATION
-Why do you breed these rabbit s?,BREEDER_INFORMATION
+Why do you breed these rabbits?,BREEDER_INFORMATION
 Can you tell me more about why you breed these rabbit s?,BREEDER_INFORMATION
 Do you have details on your breeding business?,BREEDER_INFORMATION
 What is your mission statement?,BREEDER_INFORMATION
 Why breed these rabbit s?,BREEDER_INFORMATION
-What has the baby rabbits been fed?,RABBIT_FOOD
-What does the rabbit  like to eat?,RABBIT_FOOD
+What foods have the baby rabbits been fed?,RABBIT_FOOD
+What food does the rabbit like to eat?,RABBIT_FOOD
 What food do I need to get?,RABBIT_FOOD
 Is there a partiular food I need for the kit?,RABBIT_FOOD
 What rabbit  food brand do you use?,RABBIT_FOOD
-Do you have a food/mix ratio I need to be aware of?,RABBIT_FOOD
+Do you have a fresh food brand food ratio I need to be aware of?,RABBIT_FOOD
 Can my vet examine the baby rabbits?,RABBIT_HEALTH
 I would like to bring a vet along. Is that allowed?,RABBIT_HEALTH
 Will you let my local vet look at the baby rabbits?,RABBIT_HEALTH
@@ -114,14 +111,6 @@ Much for a rabbit?,PURCHASE_RABBIT
 Have ye any rabbits to buy?,PURCHASE_RABBIT
 Any rabbits to sell?,PURCHASE_RABBIT
 Ba mhaith liom coinin. Ach nil aon airgead agam,PURCHASE_RABBIT
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+Any rabbits to sell?,PURCHASE_RABBIT
+Can I meet the parents and what rabbit food brand do you use?,RABBIT_PARENTS
+xxxxxxxxxxxxxx,RABBIT_PARENTS
