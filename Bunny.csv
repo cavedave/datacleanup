@@ -29,6 +29,7 @@ Is the rabbit friendly? ,RABBIT_SOCIALISATION
 Has the rabbit been around people? ,RABBIT_SOCIALISATION
 How does the rabbit handle strange and new people?,RABBIT_SOCIALISATION
 How friendly is the rabbit with people?,RABBIT_SOCIALISATION
+Should I buy a buck or a doe?,RABBIT_SOCIALISATION
 Was the rabbit well treated and saw people when being raised?,RABBIT_SOCIALISATION
 What vaccines has it had?,RABBIT_HEALTH
 Has the kit been vacinated? ,RABBIT_HEALTH
